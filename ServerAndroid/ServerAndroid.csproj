@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <PackageTargetFallback>portable-net45+win8</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\images\endzela 1.jpg" />
+    <Content Include="wwwroot\images\endzela.jpg" />
+    <Content Include="wwwroot\images\fd4ce4c568696634aafa15c003a5f598.jpeg" />
+    <Content Include="wwwroot\images\index-flowers.jpg" />
+    <Content Include="wwwroot\images\kislica-fioletovaja-vyrashhivanie_2_1.jpg" />
+    <Content Include="wwwroot\images\абутилон.jpg" />
+    <Content Include="wwwroot\images\агератум.jpg" />
+    <Content Include="wwwroot\images\алоэ.jpg" />
+    <Content Include="wwwroot\images\арма.jpeg" />
+    <Content Include="wwwroot\images\бальзамин.jpg" />
+    <Content Include="wwwroot\images\баракский дерего.jpg" />
+    <Content Include="wwwroot\images\бегиония.jpg" />
+    <Content Include="wwwroot\images\бегиония1.jpg" />
+    <Content Include="wwwroot\images\винка.jpg" />
+    <Content Include="wwwroot\images\волос веленры.jpg" />
+    <Content Include="wwwroot\images\газания.jpg" />
+    <Content Include="wwwroot\images\герания.jpg" />
+    <Content Include="wwwroot\images\гортензия.jpg" />
+    <Content Include="wwwroot\images\зеленый суккулент.jpg" />
+    <Content Include="wwwroot\images\ирезине.jpg" />
+    <Content Include="wwwroot\images\каланхоэ.jpg" />
+    <Content Include="wwwroot\images\лугуструм.jpg" />
+    <Content Include="wwwroot\images\медуза.jpg" />
+    <Content Include="wwwroot\images\монстера.jpg" />
+    <Content Include="wwwroot\images\остеосперум.jpg" />
+    <Content Include="wwwroot\images\папирус.jpg" />
+    <Content Include="wwwroot\images\папирус1 .jpg" />
+    <Content Include="wwwroot\images\пеларгониум.jpg" />
+    <Content Include="wwwroot\images\петуния .jpg" />
+    <Content Include="wwwroot\images\Петуния-в-горшках.jpg" />
+    <Content Include="wwwroot\images\розмарин.jpg" />
+    <Content Include="wwwroot\images\стыдливая мимоза.jpg" />
+    <Content Include="wwwroot\images\суккулент.jpg" />
+    <Content Include="wwwroot\images\фикус.jpg" />
+    <Content Include="wwwroot\images\фуксия.jpg" />
+    <Content Include="wwwroot\images\хлорофитум.jpg" />
+    <Content Include="wwwroot\images\целозия.jpg" />
+    <Content Include="wwwroot\images\эустома.jpg" />
+    <Content Include="wwwroot\images\юстиция.jpg" />
+    <Content Include="wwwroot\images\ალოე სამკურნალო.jpg" />
+    <Content Include="wwwroot\images\დაფნის ყვავილი.1 jpg.jpg" />
+    <Content Include="wwwroot\images\დაფნის ყვავილი.jpg" />
+    <Content Include="wwwroot\images\იები.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="1.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="1.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+  <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
+  <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.0.0" />
+</ItemGroup>
+
+</Project>
